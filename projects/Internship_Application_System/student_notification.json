@@ -1,0 +1,11 @@
+{
+    "agent": "Knowledge-Based Conversational AI Agent",
+    "input_received_from": "IDP Agent",
+    "student_message": "Dear student, your internship application has been checked successfully. All required documents and signatures are complete. Your application will now move to the next stage.",
+    "next_step": "Notify Student",
+    "reasoning_log": [
+        "The IDP Agent result was received.",
+        "The application status was checked.",
+        "A clear student-facing notification message was generated."
+    ]
+}

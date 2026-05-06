@@ -1,0 +1,20 @@
+{
+    "agent": "IDP Agent",
+    "status": "SUCCESS",
+    "decision": "The internship application is complete.",
+    "found_items": [
+        "student_name",
+        "student_id",
+        "department",
+        "cv",
+        "internship_form",
+        "student_signature"
+    ],
+    "missing_items": [],
+    "next_agent": "Knowledge-Based Conversational AI Agent",
+    "reasoning_log": [
+        "The document text was extracted successfully.",
+        "The required internship fields were checked.",
+        "Missing fields were identified based on required document items."
+    ]
+}

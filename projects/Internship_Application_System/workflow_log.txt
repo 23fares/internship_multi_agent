@@ -1,0 +1,7 @@
+[Orchestrator] Internship application file received.
+[Orchestrator] File sent to Document Loader.
+[Document Loader] Text extracted from uploaded document.
+[Orchestrator] Extracted text sent to IDP Agent.
+[IDP Agent] Document validation result returned.
+[Orchestrator] IDP result sent to Knowledge-Based Conversational AI Agent.
+[Knowledge-Based Conversational AI Agent] Student notification generated.
